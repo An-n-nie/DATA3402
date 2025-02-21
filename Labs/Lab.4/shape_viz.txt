@@ -1,0 +1,1 @@
+RasterDrawing(shapes={'shape_0': Rectangle (20,10,0,0) , 'shape_1': Circle (9,15,19) , 'shape_2': Triangle (9,10,10,0,35) }, shape_names=['shape_0', 'shape_1', 'shape_2'])
